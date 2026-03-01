@@ -1,29 +1,36 @@
 {
   "student": {
-    "name": "Your Name",
+    "name": "Amogh Sunil",
     "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
-    "email": "your.email@example.com",
-    "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "avatar": "https://github.com/stealthwhizz.png",
+    "github": "https://github.com/stealthwhizz",
+    "email": "stealthwhiz@gmail.com",
+    "blog": "https://substack.com/@stealthwhiz",
+    "linkedin": "https://linkedin.com/in/amoghsunil",
+    "twitter": "https://x.com/stealthwhiz"
   },
   "project": {
     "title": "Your GSoC Project Title",
     "description": "A brief description of your GSoC project and what you're working on. Explain the problem you're solving and the impact of your work.",
-    "organization": "Your Organization",
+    "organization": "OWASP Foundation",
     "timeline": "May 2026 - September 2026",
     "repositories": [
-      "https://github.com/YourOrg/Repository-1",
-      "https://github.com/YourOrg/Repository-2"
+      "https://github.com/OWASP/Nest",
+      "https://github.com/OWASP-BLT/BLT",
+      "https://github.com/OWASP-BLT/Extensions",
+      "https://github.com/OWASP-ASI/finbot-ctf"
     ]
   },
   "slack": {
-    "workspaceUrl": "https://your-org.slack.com/join/shared_invite/xxx",
+    "workspaceUrl": "https://join.slack.com/t/owasp/shared_invite/zt-3rcp2lixu-MSNROPRVf62xKDmh9aKOSw",
     "channels": [
-      "general",
-      "gsoc-2024",
-      "your-project-channel"
+      "contribute",
+      "gsoc",
+      "owasp-community",
+      "project-blt",
+      "project-nest",
+      "project-nettacker",
+      "team-genai-asf-finbot"
     ]
   }
 }
