@@ -1,16 +1,9 @@
 [
   {
-    "title": "Week 1: Getting Started",
-    "date": "2024-05-27",
-    "excerpt": "My journey begins! Set up the development environment and explored the codebase.",
-    "content": "<p>This is the full content of the Week 1 blog post. You can use HTML here to format your text.</p><p>I started by cloning the repository and setting up the dependencies. Then I explored the existing codebase to understand the architecture.</p>",
-    "readTime": "2 min read"
-  },
-  {
-    "title": "Week 2: Initial Analysis",
-    "date": "2024-06-03",
-    "excerpt": "Analyzed the requirements and created a plan for the new features.",
-    "content": "<p>In the second week, I focused on analyzing the project requirements in detail. I created a comprehensive implementation plan and discussed it with my mentors.</p><ul><li>requirement analysis</li><li>planning</li></ul>",
-    "readTime": "3 min read"
+    "title": "My First Week Contributing to OWASP",
+    "date": "2026-03-01",
+    "excerpt": "My journey begins! Started contributing to OWASP and exploring the codebase.",
+    "url": "https://stealthwhiz.substack.com/p/my-first-week-contributing-to-owasp",
+    "readTime": "5 min read"
   }
 ]
